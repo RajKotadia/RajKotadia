@@ -8,7 +8,6 @@ A **Full Stack Developer** currently working at [**Cimpress**](https://cimpress.
 - ⚡ Fun fact: I use Tabs over Spaces
 
 ## Languages & Tools
-<br/>
 <span>
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" height="22" />
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="22" />
