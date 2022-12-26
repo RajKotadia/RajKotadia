@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Raj Kotadia
+## Hi there 👋, I'm Raj Kotadia
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/raj-kotadia-0b248918a)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rajkotadia_/)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rajkotadia_)
 
 A **Full Stack Developer** currently working at [**Cimpress**](https://cimpress.com/); who generally likes to build & break stuff trying out the new tech.
 
