@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/raj-kotadia-0b248918a)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rajkotadia_/)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rajkotadia_)
+![](https://komarev.com/ghpvc/?username=RajKotadia&label=Views)
+
 
 A **Full Stack Developer** currently working at [**Cimpress**](https://cimpress.com/); who likes to build interesting stuff (and occasionally break some) while exploring the new tech.
 
