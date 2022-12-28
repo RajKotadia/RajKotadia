@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rajkotadia_/)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rajkotadia_)
 
-A **Full Stack Developer** currently working at [**Cimpress**](https://cimpress.com/); who generally likes to build & break stuff trying out the new tech.
+A **Full Stack Developer** currently working at [**Cimpress**](https://cimpress.com/); who likes to build interesting stuff (and occasionally break some) while exploring the new tech.
 
 - 🔭 I’m currently developing micro-services with Serverless Backends using Nodejs / Typescript & Golang with Reactjs based frontends
 - 🌱 I’m currently exploring [Go](https://go.dev/) and [Astro](https://astro.build/)
