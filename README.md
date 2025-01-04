@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Raj Kotadia
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/raj-kotadia-0b248918a)
-[![Twitter](https://img.shields.io/twitter/follow/rajkotadia_)](https://x.com/rajkotadia_)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8)](https://in.linkedin.com/in/raj-kotadia-0b248918a)
+[![Twitter](https://img.shields.io/badge/X%20|%20Twitter-000000)](https://x.com/rajkotadia_)
 ![](https://komarev.com/ghpvc/?username=RajKotadia&label=Views)
 
 
